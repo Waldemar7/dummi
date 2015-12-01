@@ -3,3 +3,8 @@ this line is even newer.
 and even newer.
 
 next day. something newer even.
+
+and now we're on windows. adding some crap.
+another line
+oh well,. i guess git-bash works best.
+
